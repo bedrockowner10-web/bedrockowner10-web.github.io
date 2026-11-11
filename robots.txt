@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://websbyrayyan.dev/sitemap.xml
+Sitemap: https://websbyrayyan.is-a.dev/sitemap.xml
